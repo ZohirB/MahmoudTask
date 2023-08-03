@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zohir\\RiderProjects\\MahmoudTask\\MahmoudTask\\MahmoudTask.csproj": {}
+    "C:\\Users\\zohir\\OneDrive\\Desktop\\Training Projects\\MahmoudTask\\MahmoudTask\\MahmoudTask.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zohir\\RiderProjects\\MahmoudTask\\MahmoudTask\\MahmoudTask.csproj": {
+    "C:\\Users\\zohir\\OneDrive\\Desktop\\Training Projects\\MahmoudTask\\MahmoudTask\\MahmoudTask.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zohir\\RiderProjects\\MahmoudTask\\MahmoudTask\\MahmoudTask.csproj",
+        "projectUniqueName": "C:\\Users\\zohir\\OneDrive\\Desktop\\Training Projects\\MahmoudTask\\MahmoudTask\\MahmoudTask.csproj",
         "projectName": "MahmoudTask",
-        "projectPath": "C:\\Users\\zohir\\RiderProjects\\MahmoudTask\\MahmoudTask\\MahmoudTask.csproj",
+        "projectPath": "C:\\Users\\zohir\\OneDrive\\Desktop\\Training Projects\\MahmoudTask\\MahmoudTask\\MahmoudTask.csproj",
         "packagesPath": "C:\\Users\\zohir\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zohir\\RiderProjects\\MahmoudTask\\MahmoudTask\\obj\\",
+        "outputPath": "C:\\Users\\zohir\\OneDrive\\Desktop\\Training Projects\\MahmoudTask\\MahmoudTask\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
